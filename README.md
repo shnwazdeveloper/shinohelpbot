@@ -3,9 +3,6 @@
     ──「 AM Group Manager BOT 」──
 </h2>
 
-<p align="center">
-  <img src="https://telegra.ph/file/f20237d3a028a343d595a.jpg">
-</p>
 
 <p align="center">
 <a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMGroupManagerBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
