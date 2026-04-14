@@ -1,17 +1,3 @@
-
-<h2 align="center">
-    ──「 AM Group Manager BOT 」──
-</h2>
-
-
-<p align="center">
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/stargazers"><img src="https://img.shields.io/github/stars/AbhiModszYT/AMGroupManagerBOT?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/network/members"> <img src="https://img.shields.io/github/forks/AbhiModszYT/AMGroupManagerBOT?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/blob/main/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT/commits/AbhiModszYT"> <img src="https://img.shields.io/github/last-commit/AbhiModszYT/AMGroupManagerBOT?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
 ## Features Of AMGroupManagerBOT And Commands ❤️
 
 <details>
@@ -125,45 +111,4 @@
 - `python3 -m Am`
 - Now Prees `Ctrl+a`Agen  `Ctrl+d`
 
-━━━━━━━━━━━━━━━━━━━━
 
-<h3 align="center">
-    ─「 sᴜᴩᴩᴏʀᴛ 」─
-</h3>
-
-<p align="center">
-<a href="https://t.me/AM_YTSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/AbhiModszYT_Return"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-<p align="center">
-<a href="https://telegram.me/AMBOTYT"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
-</p>
-
-# Owner And Credit
-<details>
-<summary><b>ᴄʀᴇᴅɪᴛ</b></summary>
-<br>
-
-<h3 align="center">
-   ᴄʀᴇᴅɪᴛs 
-## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
-
-- [AbhiModszYT](https://telegram.dog/AM_YTBOTT)
-</details>
-
-</h3>
-
-<p align="center">
-<a href="https://github.com/AbhiModszYT"> <img src="https://img.shields.io/badge/AbhiModszYT-black?style=for-the-badge&logo=github" alt="AbhiModszYT" /> </a>
-</p>
-
-<h3 align="center">──「 ʀᴇᴘᴏ sᴛᴀᴛs 」──</h3>
-<a href="https://github.com/AbhiModszYT/AMGroupManagerBOT"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AbhiModszYT&repo=AMGroupManagerBOT&theme=chartreuse-dark"></a>
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
