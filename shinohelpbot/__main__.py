@@ -192,10 +192,10 @@ def start(update: Update, context: CallbackContext):
                 [
                     InlineKeyboardButton(
                         text="SUPPORT", 
-                        url=f"https://t.me/AM_YTSUPPORT"),
+                        url=f"https://t.me/as3lt"),
                     InlineKeyboardButton(
                         text="Gbans", 
-                        url=f"https://t.me/Logs_Gban")
+                        url=f"https://t.me/as3lt")
                     
                 ],
                 

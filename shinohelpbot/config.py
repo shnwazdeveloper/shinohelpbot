@@ -10,20 +10,20 @@ def get_user_list(config, key):
 class Config(object):
     LOGGER = True
 
-    API_ID = "12227067"
-    API_HASH = "b463bedd791aa733ae2297e6520302fe"
-    TOKEN = ""
-    OWNER_ID = ""
-    OWNER_USERNAME = ""
-    UPDATES = ""
-    BOT_USERNAME = ""
-    SUPPORT_CHAT = "AM_YTSUPPORT"
-    JOIN_LOGGER = "-1001841879487"
-    EVENT_LOGS = "-1001841879487"
-    BOT_USERNAME = ""
-    BOT_NAME = ""
-    GBANS = "AMBOTYT" 
-    CHAT_GROUP = ""
+    API_ID = "36618178"
+    API_HASH = "780b1677cc8199a7e78890d3c8c3b21b"
+    TOKEN = "8785969968:AAEdnpEwB_4GhUZpbB6eiHUa7RfX5IDrPRc"
+    OWNER_ID = "8206476526"
+    OWNER_USERNAME = "sexyshnwaz"
+    UPDATES = "as3lt"
+    BOT_USERNAME = "shinohelpbot"
+    SUPPORT_CHAT = "as3lt"
+    JOIN_LOGGER = "-1003710487004"
+    EVENT_LOGS = "-1003710487004"
+    BOT_USERNAME = "shinohelpbot"
+    BOT_NAME = "shinohelpbot"
+    GBANS = "as3lt" 
+    CHAT_GROUP = "as3lt"
     # 
     # DATABASE_URL = "postgres://ixweewbx:9OoB_feF6d6wK1W4YycgwHzRHQXezsNA@arjuna.db.elephantsql.com/ixweewbx"  # sql
     DATABASE_URL = ""  # sql
