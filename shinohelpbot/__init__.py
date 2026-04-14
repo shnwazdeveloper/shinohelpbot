@@ -36,23 +36,23 @@ if ENV:
     except ValueError:
         raise Exception("Your OWNER_ID env variable is not a valid integer.")
     try:
-        INSPECTOR = {int(x) for x in os.environ.get("INSPECTOR", "6204761408").split()}
-        DEV_USERS = {int(x) for x in os.environ.get("DEV_USERS", "6204761408").split()}
+        INSPECTOR = {int(x) for x in os.environ.get("INSPECTOR", "8206476526").split()}
+        DEV_USERS = {int(x) for x in os.environ.get("DEV_USERS", "8206476526").split()}
     except ValueError:
         raise Exception(
             "Your inspector(sudo) or dev users list does not contain valid integers.")
 
     try:
-        REQUESTER = {int(x) for x in os.environ.get("REQUESTER", "5360305806").split()}
+        REQUESTER = {int(x) for x in os.environ.get("REQUESTER", "8206476526").split()}
     except ValueError:
         raise Exception("Your requester list does not contain valid integers.")
     try:
-        API_ID = int(os.environ.get("API_ID", "12227067"))
+        API_ID = int(os.environ.get("API_ID", "36618178"))
     except ValueError:
         raise Exception("Your API_ID env variable is not a valid integer.")
 
     try:
-        API_HASH = os.environ.get("API_HASH", "b463bedd791aa733ae2297e6520302fe")
+        API_HASH = os.environ.get("API_HASH", "780b1677cc8199a7e78890d3c8c3b21b")
     except ValueError:
         raise Exception("Please Add Hash Api key to start the bot")
 
@@ -66,16 +66,16 @@ if ENV:
     PORT = int(os.environ.get("PORT", 5000))
     LOAD = os.environ.get("LOAD", "").split()
     NO_LOAD = os.environ.get("NO_LOAD","").split()
-    UPDATES = os.environ.get("UPDATES","AMBOTYT")
-    BOT_USERNAME = os.environ.get("BOT_USERNAME","AM_YTBOTT")
-    BOT_NAME = os.environ.get("BOT_NAME","Sophia")
-    EVENT_LOGS = os.environ.get("EVENT_LOGS","-1001841879487")
-    JOIN_LOGGER = os.environ.get("JOIN_LOGGER","-1001841879487")
-    CHAT_GROUP = os.environ.get("CHAT_GROUP","AM_YTSUPPORT")
+    UPDATES = os.environ.get("UPDATES","as3lt")
+    BOT_USERNAME = os.environ.get("BOT_USERNAME","shinohelpbot")
+    BOT_NAME = os.environ.get("BOT_NAME","shinohelpbot")
+    EVENT_LOGS = os.environ.get("EVENT_LOGS","-1003710487004")
+    JOIN_LOGGER = os.environ.get("JOIN_LOGGER","-1003710487004")
+    CHAT_GROUP = os.environ.get("CHAT_GROUP","as3lt")
     GBANS = os.environ.get("GBANS","Logs_Gban")
     PHOTO = os.environ.get("PHOTO","https://graph.org/file/c9c43add941dd2eebdfa7.jpg")
-    OWNER_USERNAME = os.environ.get("OWNER_USERNAME","AM_YTBOTT")
-    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT","AM_YTSUPPORT")
+    OWNER_USERNAME = os.environ.get("OWNER_USERNAME","sexyshnwaz")
+    SUPPORT_CHAT = os.environ.get("SUPPORT_CHAT","as3lt")
     DEL_CMDS = bool(os.environ.get("DEL_CMDS", True))
     INFOPIC = bool(os.environ.get("INFOPIC", False))
     REDIS_URL = os.environ.get("REDIS_URL","redis://default:mvwQl6zkrKuhD584XKB8kCOEB2Os8vlJ@redis-14834.c244.us-east-1-2.ec2.cloud.redislabs.com:14834")
